@@ -1,0 +1,13 @@
+{
+  "appname": "modacto-test",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "E5E8E5F8-EA98-4295-879D-D6C482DFAE09",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
